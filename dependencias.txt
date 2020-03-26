@@ -1,0 +1,6 @@
+//Dependencias:
+npm i express body-parse awilix pg dotenv cors compression structure --save sequelize
+
+//Comando doccker
+
+docker pull postgres
